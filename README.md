@@ -1,2 +1,3 @@
 # csOrdineOS
-Sistema operativo per csOrdine
+Sistema operativo per csOrdini
+
